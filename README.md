@@ -52,7 +52,6 @@ This repository contains the computational workflows and analysis code used for:
 * Single-cell TCR repertoire analysis
 * T-cell clonotype expansion analysis
 * T-cell phenotype and functional-state characterization
-* Integration of spatial transcriptomic and TCR-associated findings
 * Generation of manuscript figures and supporting analyses
 
 ## Citation
